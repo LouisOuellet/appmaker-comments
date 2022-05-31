@@ -1,7 +1,7 @@
 {
     "repository": {
         "name": "appmaker-comments",
-        "branch": "dev",
+        "branch": "pre-release",
         "manifest": "\/dist\/data\/manifest.json",
         "host": {
             "git": "https:\/\/github.com\/LouisOuellet\/",
@@ -12,6 +12,6 @@
         "comments"
     ],
     "name": "comments",
-    "build": 60,
-    "version": "22.05-dev"
+    "build": 61,
+    "version": "22.05-pre-release"
 }
